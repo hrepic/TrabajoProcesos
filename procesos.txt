@@ -112,7 +112,7 @@
                         <img class="align-self-center mr-3 logo" src="https://comisariavirtual.cl/logos/logo28.png" alt="COMISARÍA VIRTUAL" />
                         <div class="media-body align-self-center name-institution" style="color: #007328;">
                             <!--Cambio Color nombre institucion-->
-                            <h5 style="color: #007328;" class="mt-1">COMISARÍA VIRTUAL</h5>
+                            <h5 style="color: #007328;" class="mt-1">PROCESEMOS</h5>
                             <p></p>
                         </div>
                     </div>
@@ -147,7 +147,7 @@
             </div>
         </nav>
         <div class="main-container container pb-5">
-            <h1 class="title">Listado de trámites disponibles</h1>
+            <h1 class="title">“El desafío que se impone parece ser este: pasar de una sociedad de producción industrial en guerra con la naturaleza a una sociedad de promoción de toda la vida en sintonía con los ciclos de la naturaleza y con sentido de equidad.”              -Leonardo Boff</h1>
 
             <hr>
             <br>
